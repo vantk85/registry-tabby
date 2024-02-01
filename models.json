@@ -104,5 +104,16 @@
       "https://huggingface.co/TheBloke/deepseek-coder-6.7B-base-GGUF/resolve/main/deepseek-coder-6.7b-base.Q8_0.gguf"
     ],
     "sha256": "a2f82242ac5e465037cbf1ed754f04f0be044ee196e1589905f9e4dcd0e6559d"
+  },
+  {
+    "name": "Stable-Code-3B",
+    "provider_url": "https://huggingface.co/TheBloke/stable-code-3b-GGUF",
+    "license_name": "STABILITY AI NON-COMMERCIAL RESEARCH COMMUNITY LICENSE",
+    "license_url": "https://huggingface.co/stabilityai/stable-code-3b/blob/main/LICENSE",
+    "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
+    "urls": [
+      "https://huggingface.co/TheBloke/stable-code-3b-GGUF/resolve/main/stable-code-3b.Q8_0.gguf?download=true"
+    ],
+    "sha256": "b035a641f366a02231ddd137842e760b20b9e6e4d99ecc20bea6cf999ed62331"
   }
 ]

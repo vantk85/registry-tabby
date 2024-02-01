@@ -112,7 +112,7 @@
     "license_url": "https://huggingface.co/stabilityai/stable-code-3b/blob/main/LICENSE",
     "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
     "urls": [
-      "https://huggingface.co/TheBloke/stable-code-3b-GGUF/resolve/main/stable-code-3b.Q8_0.gguf"
+      "https://cdn-lfs-us-1.huggingface.co/repos/88/99/8899318d89ea33dcc935e8d4c98b6938bba256eeeaa68bb195c9a5895560fd4b/b035a641f366a02231ddd137842e760b20b9e6e4d99ecc20bea6cf999ed62331?response-content-disposition=attachment%3B+filename*%3DUTF-8%27%27stable-code-3b.Q8_0.gguf%3B+filename%3D%22stable-code-3b.Q8_0.gguf%22%3B&Expires=1707031285&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwNzAzMTI4NX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmh1Z2dpbmdmYWNlLmNvL3JlcG9zLzg4Lzk5Lzg4OTkzMThkODllYTMzZGNjOTM1ZThkNGM5OGI2OTM4YmJhMjU2ZWVlYWE2OGJiMTk1YzlhNTg5NTU2MGZkNGIvYjAzNWE2NDFmMzY2YTAyMjMxZGRkMTM3ODQyZTc2MGIyMGI5ZTZlNGQ5OWVjYzIwYmVhNmNmOTk5ZWQ2MjMzMT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=Nat2w8vQabMugnTM0zD-WROe0wwV2YWCHgRiWBLYvHQ1lMev5Y60BI6%7EJsYrNvMG6KesaHmXxqYuVC2pUv1%7E3k3x8qJKwINqvaEUqZ-mkKhn9XXt-N9IK8by8XUfBLqGBtqozKnZhbJUTOHShc1uySY8N2rUDF3emLIO9QUW8DvzPPF6fL61JojB5FTKiRmfeUqYSnM4KPUSrAqCzDTmy1Ql8OVs-Q7RRdpUCa7Hb0V5E6fHq1dHGvJszfz7bjNQT3OR6QDmVx1yxCsGeqwdS0nCl3cPGx0YsWqlXuZxSyhfeZiHCxgUYSTdVmMjc5IHaxvGliOznHq-%7EF2icM-duA__&Key-Pair-Id=KCD77M1F0VK2B"
     ],
     "sha256": "b035a641f366a02231ddd137842e760b20b9e6e4d99ecc20bea6cf999ed62331"
   }

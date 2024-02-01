@@ -112,7 +112,7 @@
     "license_url": "https://huggingface.co/stabilityai/stable-code-3b/blob/main/LICENSE",
     "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
     "urls": [
-      "https://huggingface.co/TheBloke/stable-code-3b-GGUF/resolve/main/stable-code-3b.Q8_0.gguf?download=true"
+      "https://huggingface.co/TheBloke/stable-code-3b-GGUF/resolve/main/stable-code-3b.Q8_0.gguf"
     ],
     "sha256": "b035a641f366a02231ddd137842e760b20b9e6e4d99ecc20bea6cf999ed62331"
   }
